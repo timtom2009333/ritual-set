@@ -1,0 +1,32 @@
+.u-section-1 {
+  background-image: linear-gradient(#e5e5e5, #e5e5e5);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 145px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 869px;
+  margin: 62px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 36px;
+    margin-right: 36px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
