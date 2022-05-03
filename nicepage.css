@@ -33918,12 +33918,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 32px;
+    margin-top: 30px;
+    margin-right: -35px;
   }
 
   .u-header .u-text-1 {
     width: 247px;
-    margin: -45px auto 35px;
+    margin: -43px auto 35px;
   }
 }
 .u-footer {
